@@ -1,0 +1,73 @@
+.root
+{
+  align-items: center;
+}
+.header{
+  width: 550px;
+  height: 55px;
+  left: 0px;
+  top: 0px;
+  background: #F55A5A;
+  border-radius: 25px;
+  margin-bottom: 15px;
+}
+.Location-image
+{
+    padding-left: 5px;
+    padding-top: 10px;
+    height: 23px !important;
+    width: 18px !important;
+}
+
+.App
+{
+  margin-top: 5px;
+  padding-left: 5px;
+}
+  .text
+  {
+    position: absolute;
+    width: 109px;
+    height: 16px;
+    left: 244px;
+    top: 2px;  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+  }
+  .img
+  {
+    position: absolute;
+     padding-top: 10px;
+     left: 215px;
+     top: 2px;  
+  }
+  .place-name
+  {
+      font-size: 20px;
+      font-weight: bold !important;
+  }
+  .About
+  {
+    height:100px;
+    margin-top: 15px !important;
+    overflow: scroll !important; 
+  }
+  .Date
+  {
+    font-size: 15px !important;
+    font-weight: bold !important;
+    margin-bottom: 5px;
+  }
+  .place-image
+  {
+    width: 250px !important;
+  }
+  .css-46bh2p-MuiCardContent-root
+   {
+    padding: 9px !important;
+  }
